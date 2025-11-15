@@ -1,0 +1,401 @@
+100
+1
+Canal 1
+1.000000
+Categoria 1
+10
+Canal 10
+10.000000
+Categoria 10
+100
+Canal 100
+100.000000
+Categoria 100
+11
+Canal 11
+11.000000
+Categoria 11
+12
+Canal 12
+12.000000
+Categoria 12
+13
+Canal 13
+13.000000
+Categoria 13
+14
+Canal 14
+14.000000
+Categoria 14
+15
+Canal 15
+15.000000
+Categoria 15
+16
+Canal 16
+16.000000
+Categoria 16
+17
+Canal 17
+17.000000
+Categoria 17
+18
+Canal 18
+18.000000
+Categoria 18
+19
+Canal 19
+19.000000
+Categoria 19
+2
+Canal 2
+2.000000
+Categoria 2
+20
+Canal 20
+20.000000
+Categoria 20
+21
+Canal 21
+21.000000
+Categoria 21
+22
+Canal 22
+22.000000
+Categoria 22
+23
+Canal 23
+23.000000
+Categoria 23
+24
+Canal 24
+24.000000
+Categoria 24
+25
+Canal 25
+25.000000
+Categoria 25
+26
+Canal 26
+26.000000
+Categoria 26
+27
+Canal 27
+27.000000
+Categoria 27
+28
+Canal 28
+28.000000
+Categoria 28
+29
+Canal 29
+29.000000
+Categoria 29
+3
+Canal 3
+3.000000
+Categoria 3
+30
+Canal 30
+30.000000
+Categoria 30
+31
+Canal 31
+31.000000
+Categoria 31
+32
+Canal 32
+32.000000
+Categoria 32
+33
+Canal 33
+33.000000
+Categoria 33
+34
+Canal 34
+34.000000
+Categoria 34
+35
+Canal 35
+35.000000
+Categoria 35
+36
+Canal 36
+36.000000
+Categoria 36
+37
+Canal 37
+37.000000
+Categoria 37
+38
+Canal 38
+38.000000
+Categoria 38
+39
+Canal 39
+39.000000
+Categoria 39
+4
+Canal 4
+4.000000
+Categoria 4
+40
+Canal 40
+40.000000
+Categoria 40
+41
+Canal 41
+41.000000
+Categoria 41
+42
+Canal 42
+42.000000
+Categoria 42
+43
+Canal 43
+43.000000
+Categoria 43
+44
+Canal 44
+44.000000
+Categoria 44
+45
+Canal 45
+45.000000
+Categoria 45
+46
+Canal 46
+46.000000
+Categoria 46
+47
+Canal 47
+47.000000
+Categoria 47
+48
+Canal 48
+48.000000
+Categoria 48
+49
+Canal 49
+49.000000
+Categoria 49
+5
+Canal 5
+5.000000
+Categoria 5
+50
+Canal 50
+50.000000
+Categoria 50
+51
+Canal 51
+51.000000
+Categoria 51
+52
+Canal 52
+52.000000
+Categoria 52
+53
+Canal 53
+53.000000
+Categoria 53
+54
+Canal 54
+54.000000
+Categoria 54
+55
+Canal 55
+55.000000
+Categoria 55
+56
+Canal 56
+56.000000
+Categoria 56
+57
+Canal 57
+57.000000
+Categoria 57
+58
+Canal 58
+58.000000
+Categoria 58
+59
+Canal 59
+59.000000
+Categoria 59
+6
+Canal 6
+6.000000
+Categoria 6
+60
+Canal 60
+60.000000
+Categoria 60
+61
+Canal 61
+61.000000
+Categoria 61
+62
+Canal 62
+62.000000
+Categoria 62
+63
+Canal 63
+63.000000
+Categoria 63
+64
+Canal 64
+64.000000
+Categoria 64
+65
+Canal 65
+65.000000
+Categoria 65
+66
+Canal 66
+66.000000
+Categoria 66
+67
+Canal 67
+67.000000
+Categoria 67
+68
+Canal 68
+68.000000
+Categoria 68
+69
+Canal 69
+69.000000
+Categoria 69
+7
+Canal 7
+7.000000
+Categoria 7
+70
+Canal 70
+70.000000
+Categoria 70
+71
+Canal 71
+71.000000
+Categoria 71
+72
+Canal 72
+72.000000
+Categoria 72
+73
+Canal 73
+73.000000
+Categoria 73
+74
+Canal 74
+74.000000
+Categoria 74
+75
+Canal 75
+75.000000
+Categoria 75
+76
+Canal 76
+76.000000
+Categoria 76
+77
+Canal 77
+77.000000
+Categoria 77
+78
+Canal 78
+78.000000
+Categoria 78
+79
+Canal 79
+79.000000
+Categoria 79
+8
+Canal 8
+8.000000
+Categoria 8
+80
+Canal 80
+80.000000
+Categoria 80
+81
+Canal 81
+81.000000
+Categoria 81
+82
+Canal 82
+82.000000
+Categoria 82
+83
+Canal 83
+83.000000
+Categoria 83
+84
+Canal 84
+84.000000
+Categoria 84
+85
+Canal 85
+85.000000
+Categoria 85
+86
+Canal 86
+86.000000
+Categoria 86
+87
+Canal 87
+87.000000
+Categoria 87
+88
+Canal 88
+88.000000
+Categoria 88
+89
+Canal 89
+89.000000
+Categoria 89
+9
+Canal 9
+9.000000
+Categoria 9
+90
+Canal 90
+90.000000
+Categoria 90
+91
+Canal 91
+91.000000
+Categoria 91
+92
+Canal 92
+92.000000
+Categoria 92
+93
+Canal 93
+93.000000
+Categoria 93
+94
+Canal 94
+94.000000
+Categoria 94
+95
+Canal 95
+95.000000
+Categoria 95
+96
+Canal 96
+96.000000
+Categoria 96
+97
+Canal 97
+97.000000
+Categoria 97
+98
+Canal 98
+98.000000
+Categoria 98
+99
+Canal 99
+99.000000
+Categoria 99
