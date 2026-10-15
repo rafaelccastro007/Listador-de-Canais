@@ -1,1 +1,8 @@
-trabalho_fup
+# arquivos objetos e executaveis
+*.o
+
+#arquivos criados pelo vscode
+.vscode/
+
+#banco de dados para debug
+Dados.txt
